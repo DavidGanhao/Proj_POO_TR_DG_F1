@@ -8,5 +8,5 @@
  * @author Utilizador
  */
 public enum Vote {
-    
+    VALID, BLANK, NULL;
 }
