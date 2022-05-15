@@ -8,6 +8,6 @@
  *
  * @author user
  */
-public class LegislativeElection {
+public class LegislativeElection extends Election{
 
 }

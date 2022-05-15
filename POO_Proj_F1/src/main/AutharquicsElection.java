@@ -8,6 +8,7 @@
  *
  * @author user
  */
-public class AutharquicsElection {
-
+public class AutharquicsElection extends Election{
+    
+    
 }
